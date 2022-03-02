@@ -1,2 +1,2 @@
-# libft
-First Project in 42Ecole 
+# First Project
+libft is First Project in 42Ecole 
