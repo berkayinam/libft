@@ -22,7 +22,7 @@ libft projesi, C standart kütüphanesindeki bazı fonksiyonları yeniden yazara
 
 ### Derleme
 ```bash
-git clone https://github.com/[kullanıcı-adı]/libft.git
+git clone https://github.com/berkayinam/libft.git
 cd libft
 make
 ```
